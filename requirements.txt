@@ -1,0 +1,5 @@
+pandas
+requests
+json
+web3
+eth-account
