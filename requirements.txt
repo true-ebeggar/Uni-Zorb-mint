@@ -3,3 +3,4 @@ requests
 json
 web3
 eth-account
+colorlog
