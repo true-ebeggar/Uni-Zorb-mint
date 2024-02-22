@@ -1,0 +1,1 @@
+Mint an NFT on Uni Zorb, available on this page: https://zora.co/collect/zora:0x7e8f28a51471a9a434505ac58ded39c422e73028. You need a proxy because only one RPC is available, which means Zora founders have full access to data, including IP addresses. This is why a proxy is required. You DON'T want to be marked as a Sybil due to oldest mistake.
